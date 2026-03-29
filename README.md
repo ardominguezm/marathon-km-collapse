@@ -1,4 +1,4 @@
-# Stochastic collapse and first-passage dynamics in marathon pacing: a Kramers–Moyal approach
+# Stochastic collapse and first-passage dynamics in marathon pacing: A Kramers–Moyal approach
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
