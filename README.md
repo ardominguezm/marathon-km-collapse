@@ -213,8 +213,8 @@ This code is released under the [MIT License](LICENSE). The race result data are
 
 Andy Domínguez-Monterroza  
 Deparment of Artificial Intelligence, Universidad Politécnica de Madrid, Spain.
-Faculty of Industrial Engineering, Universidad Santo Tomás, Bogotá D.C, Colombia
-Department of Mathematics, Pontificia Universidad Javeriana, Bogotá D.C., Colombia  
+Faculty of Industrial Engineering, Universidad Santo Tomás, Bogotá D.C, Colombia.
+Department of Mathematics, Pontificia Universidad Javeriana, Bogotá D.C., Colombia.
 andydom@ucm.es
 andy_dominguez01@javeriana.edu.co
 andy.dominguez@javeriana.edu.co
