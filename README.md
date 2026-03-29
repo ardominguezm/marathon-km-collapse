@@ -14,7 +14,7 @@ This repository contains the full analysis pipeline for the paper:
 
 ## Overview
 
-We construct a coarse-grained stochastic description of marathon pacing dynamics and characterize the onset of pacing collapse — the "wall" — as a first-passage event in a distance-dependent system. Using split-time records from **531,100 runners** across four World Marathon Majors (Boston, Chicago, New York, Berlin; 2021–2024), we estimate Kramers–Moyal drift and diffusion coefficients directly from the data and identify a **distance-driven bifurcation at x\* ≈ 10.25 km** beyond which steady pacing ceases to be a stable fixed point.
+We construct a coarse-grained stochastic description of marathon pacing dynamics and characterize the onset of pacing collapse (the "wall") as a first-passage event in a distance-dependent system. Using split-time records from **531,100 runners** across four World Marathon Majors (Boston, Chicago, New York, Berlin; 2021–2024), we estimate Kramers–Moyal drift and diffusion coefficients directly from the data and identify a **distance-driven bifurcation at x\* ≈ 10.25 km** beyond which steady pacing ceases to be a stable fixed point.
 
 Key findings:
 - Collapse proceeds via **attractor annihilation** rather than classical Kramers barrier crossing
