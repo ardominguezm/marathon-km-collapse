@@ -8,7 +8,7 @@ This repository contains the full analysis pipeline for the paper:
 
 > **Stochastic collapse and first-passage dynamics in marathon pacing: a Kramers–Moyal approach**  
 > A. Domínguez-Monterroza  
-> *Physical Review E* (under review), 2025  
+> *Physical Review E* (under review), 2026  
 
 ---
 
